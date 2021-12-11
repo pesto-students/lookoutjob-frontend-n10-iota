@@ -20,5 +20,5 @@ export const rejectURL = 'http://ec2-54-251-181-134.ap-southeast-1.compute.amazo
 export const  bucketName= 'lookoutjob';
 export const  dirName= 'photos' ;
 export const  region= 'ap-southeast-1';
-export const  accessKeyId= 'AKIATKRUW3LE2VKVYB76';
-export const  secretAccessKey= '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';
+export const  accessKeyId= '';
+export const  secretAccessKey= '';
